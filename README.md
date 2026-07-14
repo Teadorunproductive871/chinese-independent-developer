@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 15 号添加
 
+#### sunmh207 - [Github](https://github.com/sunmh207)
+* :white_check_mark: [AI Codereview for Gitlab](https://demo.mzfuture.com)：基于大模型(DeepSeek,OpenAI等)的 GitLab 自动代码审查工具；支持钉钉/企业微信/飞书推送消息和生成日报；支持Docker部署；可视化 Dashboard。 - [查看仓库](https://github.com/sunmh207/AI-Codereview-Gitlab)
+
 #### dongdongbh - [Github](https://github.com/dongdongbh)
 * :white_check_mark: [Mindwtr](https://mindwtr.app)：本地优先的 GTD 待办 App，几秒收集脑中的任务和想法，再通过整理、执行和每周回顾始终看清下一步；免费开源、无需账号，数据留在自己的设备上 - [查看仓库](https://github.com/dongdongbh/Mindwtr)
 
