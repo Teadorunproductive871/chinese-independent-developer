@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 14 号添加
 
+#### Pectics - [GitHub](https://github.com/Pectics)
+* :white_check_mark: [claude-i18n](https://chromewebstore.google.com/detail/claude-i18n/fkfmbjccelbeolkoekeaegajhhdndajj)：为你的 [Claude.ai](https://claude.ai) 网页端提供堪比原生语言切换功能和国际化体验的 **简体中文** 和 **繁體中文** 版本！并为全新的语言包贡献提供完整的加载支持！ - [查看仓库](https://github.com/Pectics/claude-i18n)
+
 #### risccfoxn - [Github](https://github.com/risccfoxn)
 * :white_check_mark: [nof1.ai Trading Bot (Alpha Arena)](https://github.com/alphaarenanof1ai/nof1ai-alpha-arena)：本地运行的开源 AI 自动交易系统，结合实时市场信号与深度强化学习，在 Hyperliquid 上执行加密货币交易
 
